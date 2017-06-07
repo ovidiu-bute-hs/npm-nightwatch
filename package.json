@@ -1,5 +1,5 @@
 {
-  "name": "npm-nightwatch",
+  "name": "nightwatch-types",
   "version": "1.0.0",
   "description": "Type Definitions for [`NightwatchJS`](http://nightwatchjs.org/)",
   "main": "index.js",
